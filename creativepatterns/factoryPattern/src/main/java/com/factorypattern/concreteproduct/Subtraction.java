@@ -1,6 +1,6 @@
-package com.factoryPattern.concreteproduct;
+package com.factorypattern.concreteproduct;
 
-import com.factoryPattern.Product.Operation;
+import com.factorypattern.Product.Operation;
 
 /**
  * @author zhanghuiyong

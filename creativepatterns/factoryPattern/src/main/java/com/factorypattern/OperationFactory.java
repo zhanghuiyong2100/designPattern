@@ -1,10 +1,10 @@
-package com.factoryPattern;
+package com.factorypattern;
 
-import com.factoryPattern.Product.Operation;
-import com.factoryPattern.concreteproduct.Addition;
-import com.factoryPattern.concreteproduct.Division;
-import com.factoryPattern.concreteproduct.Multiplication;
-import com.factoryPattern.concreteproduct.Subtraction;
+import com.factorypattern.Product.Operation;
+import com.factorypattern.concreteproduct.Addition;
+import com.factorypattern.concreteproduct.Division;
+import com.factorypattern.concreteproduct.Multiplication;
+import com.factorypattern.concreteproduct.Subtraction;
 
 /**
  * @author zhanghuiyong

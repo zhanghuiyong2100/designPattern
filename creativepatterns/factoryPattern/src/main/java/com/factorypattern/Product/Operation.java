@@ -1,4 +1,4 @@
-package com.factoryPattern.Product;
+package com.factorypattern.Product;
 
 /**
  * @author zhanghuiyong
