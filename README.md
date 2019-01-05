@@ -27,4 +27,4 @@
 ### 1月5日 工厂方法模式,原型模式
 0. 关键词:工厂方法模式,原型模式
 1. 工厂方法模式参考笔记 [05 工厂方法模式](http://note.youdao.com/noteshare?id=104bb5fe4c28ea22cda91782c2486e16&sub=5651F2B22CAB4724A8158FD297DD207C)
-2. 原型模式参考笔记 [05 原型模式](http://note.youdao.com/noteshare?id=bcb5488d8d0ca5dd363d51ff2fa57f07&sub=3546092D6B104BC58D76C24EB4E2AEB5)
+2. 原型模式参考笔记 [06 原型模式](http://note.youdao.com/noteshare?id=bcb5488d8d0ca5dd363d51ff2fa57f07&sub=3546092D6B104BC58D76C24EB4E2AEB5)
