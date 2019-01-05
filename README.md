@@ -23,3 +23,7 @@
 4. 依赖倒转原则:抽象不应该依赖细节,细节应该依赖于抽象,即就是要针对接口编程,不要对实现编程
 5. 参考笔记 [03 装饰模式](http://note.youdao.com/noteshare?id=22a452fd4850e1b507a91aba020e8634&sub=F682496602B34981A5B785CCB662B84A)
 6. 参考笔记 [04 代理模式](http://note.youdao.com/noteshare?id=a9c0a248935bc7f80dcbc295f7baa82d&sub=1B20233132844E83A2DF00C2F57521A4)
+
+### 1月5日 工厂方法模式
+0. 关键词:工厂方法模式
+1. 工厂方法模式参考笔记 [05 工厂方法模式](http://note.youdao.com/noteshare?id=104bb5fe4c28ea22cda91782c2486e16&sub=5651F2B22CAB4724A8158FD297DD207C)

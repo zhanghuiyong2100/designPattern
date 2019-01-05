@@ -9,7 +9,7 @@ import com.factorypattern.concreteproduct.Subtraction;
 /**
  * @author zhanghuiyong
  * @创建时间 2018年12月28日
- * @描述: 工厂模式—工厂角色—运算工厂类
+ * @描述: 简单工厂模式—工厂角色—运算工厂类
  **/
 
 public class OperationFactory {
