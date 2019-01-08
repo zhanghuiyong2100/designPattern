@@ -36,3 +36,6 @@
 3. 迪米特法则:如果两个类不必彼此直接通信，那么这两个类就不应当发生直接的相互作用。(类似三层架构模式)
 4. 建造者模式参考笔记 [09 建造者模式(BuilderPattern)](http://note.youdao.com/noteshare?id=66c9833a9ffa1444c575e81663bfc526&sub=807A2B406D86485886793A3022C8C6B1)
 
+### 1月8日 观察者模式,委托
+0. 关键词:观察者模式,委托
+1. 观察者模式项目笔记[10 观察者模式(ObserverPattern)](http://note.youdao.com/noteshare?id=e001ad9b37b980a31513ca408b563335&sub=2464A41ECACC419D84A663CFDD743E80)
