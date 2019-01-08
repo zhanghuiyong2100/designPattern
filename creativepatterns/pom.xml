@@ -12,6 +12,7 @@
     <modules>
         <module>factoryPattern</module>
         <module>prototypePattern</module>
+        <module>builderPattern-09</module>
     </modules>
 
 

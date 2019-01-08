@@ -24,8 +24,8 @@ public class PrototypePatternDemo {
         Shape shape3 = ShapeCache.getShape("3");
         System.out.println("图形：" + shape3.getType());
         shape3.draw();
-        /** ======================华丽分割线============================  */
 
+        /** ======================华丽分割线============================  */
         Resume resume = new Resume();
         resume.setPersonalInfo("大鸟", "男", "28");
         resume.setWorkExperience("2001-2002", "北京");
