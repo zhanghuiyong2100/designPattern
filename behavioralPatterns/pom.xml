@@ -12,6 +12,7 @@
     <modules>
         <module>strategyPattern</module>
         <module>observerPattern-10</module>
+        <module>statePattern-12</module>
     </modules>
 
     <dependencies>
@@ -19,6 +20,12 @@
             <groupId>commons-lang</groupId>
             <artifactId>commons-lang</artifactId>
             <version>2.6</version>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 
