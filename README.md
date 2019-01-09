@@ -39,3 +39,7 @@
 ### 1月8日 观察者模式,委托
 0. 关键词:观察者模式,委托
 1. 观察者模式项目笔记[10 观察者模式(ObserverPattern)](http://note.youdao.com/noteshare?id=e001ad9b37b980a31513ca408b563335&sub=2464A41ECACC419D84A663CFDD743E80)
+
+### 1月9日 抽象工厂模式
+0. 关键词:抽象工厂模式,反射
+1. 项目笔记:[11 抽象工厂模式(AbstractFactoryPattern)](http://note.youdao.com/noteshare?id=6b657554c78dacd5b60e540cf8c527b1&sub=13DF8B48ABFF4733B683A4E33B50CE42)

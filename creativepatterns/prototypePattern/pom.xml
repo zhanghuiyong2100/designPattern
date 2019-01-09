@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <!--原型模式-->
-    <artifactId>prototypePattern</artifactId>
+    <artifactId>prototypePattern-06</artifactId>
 
 
 </project>

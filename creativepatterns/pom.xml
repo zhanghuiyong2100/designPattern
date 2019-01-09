@@ -13,7 +13,23 @@
         <module>factoryPattern</module>
         <module>prototypePattern</module>
         <module>builderPattern-09</module>
+        <module>abstractFactoryPattern-11</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>commons-lang</groupId>
+            <artifactId>commons-lang</artifactId>
+            <version>2.6</version>
+        </dependency>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 
 
 </project>
