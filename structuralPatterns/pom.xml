@@ -12,6 +12,7 @@
     <modules>
         <module>decoratorPattern</module>
         <module>proxyPattern</module>
+        <module>adapterPattern-13</module>
     </modules>
 
     <dependencies>
