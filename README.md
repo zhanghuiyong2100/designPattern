@@ -46,5 +46,7 @@
 2. 状态模式项目笔记:[12 状态模式(StatePattern)](http://note.youdao.com/noteshare?id=955be314dd9aa1be6f6b702b22035e37&sub=FE5BF441059E4D3CB4E87282D9A2F62D)
 3. 题外:对于状态模式暂时没有很清晰的理解,初略知道他的作用就是当一个方法中的判断逻辑过多时,可以使用状态模式,从而简化代码,但是如此的话,我单独在写个方法引用的一样也是可以;逻辑待缕清
 
-### 1月10日 适配器模式
+### 1月10日 适配器模式,备忘录模式
+0. 关键词:适配器模式,备忘录模式
 1. 适配器模式项目笔记:[13 适配器模式(AdapterPattern)](http://note.youdao.com/noteshare?id=eaa6123659f3f5d8eb663bd91dcd6b58&sub=88255C7A68EF4F0BAE57F18B528264F3)
+2. 行为型模式备忘录模式项目笔记:[14 备忘录模式(MementoPattern)](http://note.youdao.com/noteshare?id=83392665248b570c521fa877a2b4b7e3&sub=794238E1195343ADA0C53D7D9E3CFEE2)

@@ -13,6 +13,7 @@
         <module>strategyPattern</module>
         <module>observerPattern-10</module>
         <module>statePattern-12</module>
+        <module>mementoPattern-14</module>
     </modules>
 
     <dependencies>
